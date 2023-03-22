@@ -6,7 +6,7 @@ NIM    : 120140162
 Kelas  : RA
 
 Penjelasan Cara run Aplikasi/Source Code : 
-Aplikasi ini dapat di run secara langsung menggunakan file UTS-120140169-Emirssyah Putra.Apk, atau juga dapat run menggunakan expo.
+Aplikasi ini dapat di run secara langsung menggunakan expo.
 
 Terdapat 3 pilihan saat run menggunakan Expo yaitu Run menggunakan Expo go di Hp android, run menggunakan expo Web, atau juga bisa run menggunakan android emulator.
 Jika ingin run Source Code menggunakan Expo, maka ada beberapa hal yang harus diinstal terlebih dahulu : 
